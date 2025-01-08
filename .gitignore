@@ -172,3 +172,4 @@ cython_debug/
 .pypirc
 
 RetrieveSearchKeywords/RetrieveSearchKeywords.code-workspace
+TrainModel/TrainModel.code-workspace

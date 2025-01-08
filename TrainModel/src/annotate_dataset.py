@@ -1,5 +1,4 @@
 import re
-import os
 
 # Define patterns for automatic annotation
 patterns = {
@@ -10,7 +9,6 @@ patterns = {
 }
 
 # Read sentences from file
-print("Current working directory:", os.getcwd())
 with open('data/sentences.txt', 'r', encoding='utf-8') as file:
     texts = [line.strip() for line in file.readlines()]
 
@@ -23,28 +21,16 @@ for text in texts:
             entities.append({"start": match.start(), "end": match.end(), "label": label})
     annotations.append({"text": text, "entities": entities})
 
-# Print the annotated data
-for item in annotations:
-    print(item)
-
-# Convert to Spacy supported format
-import json
-
-# Input JSON data
-data = annotations
+# # Print the annotated data
+# for item in annotations:
+#     print(item)
 
 # Convert JSON to SpaCy training data format
 spacy_training_data = []
-for item in data:
+for item in annotations:
     text = item["text"]
     entities = [(entity["start"], entity["end"], entity["label"]) for entity in item["entities"]]
     spacy_training_data.append((text, {"entities": entities}))
 
 def getTrainingData():
     return spacy_training_data
-
-# # Output the converted data
-# print("SpaCy Training Data:")
-# for entry in spacy_training_data:
-#     print(entry)
-

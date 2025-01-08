@@ -6,10 +6,10 @@
     "configurations": [
     
         {
-            "name": "Python Debugger: Current File",
+            "name": "Python Debugger: ner_train_model.py",
             "type": "debugpy",
             "request": "launch",
-            "program": "${file}",
+            "program": "${workspaceFolder}/src/ner_train_model.py",
             "console": "integratedTerminal"
         }
     ]

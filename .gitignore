@@ -171,3 +171,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+RetrieveSearchKeywords/RetrieveSearchKeywords.code-workspace
+TrainModel/TrainModel.code-workspace

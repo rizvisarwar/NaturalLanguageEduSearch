@@ -28,8 +28,5 @@ def main():
 
     nlp.to_disk("../TrainedModel")
 
-    # def trainNlpModel():
-    #     return nlp
-
 if __name__ == "__main__":
     main()

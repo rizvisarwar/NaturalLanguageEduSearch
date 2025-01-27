@@ -2,9 +2,9 @@ import re
 
 # Define patterns for automatic annotation
 patterns = {
-    "EDUCATIONAL_GOAL": r"(Master's|distance course|PhD|Bachelor's)",
-    "FIELD_OF_STUDY": r"(European History|Natural Language Processing|Data Science|redovisning|ekonomi|informationsteknik|Computer Science|Information Security|Software Engineering|Accessories Design|Accountancy|Accounting|Administration|Administration Studies|Administration, Business, and Economics|Administrative Law Studies|Adult Education|Advertising|Aeronautical Engineering)",
-    "LOCATION_COUNTRY": r"(Germany|Sweden|Canada|Italy|Finland|Sverige|Tyskland)",
+    "EDUCATIONAL_GOAL": r"(Master|Masters|Master's|distance course|distance program|PhD|Bachelor's|Bachelors|Bachelor)",
+    "FIELD_OF_STUDY": r"(European History|Physics|Chemistry|Natural Language Processing|Data Science|redovisning|ekonomi|informationsteknik|Computer Science|Information Security|Software Engineering|Accessories Design|Accountancy|Accounting|Administration|Administration Studies|Administration, Business, and Economics|Administrative Law Studies|Adult Education|Advertising|Aeronautical Engineering)",
+    "LOCATION_COUNTRY": r"(Germany|Sweden|Canada|Italy|Finland|Sverige|Tyskland|France)",
     "LOCATION_CITY": r"(Berlin|Stockholm|Rome)"
 }
 

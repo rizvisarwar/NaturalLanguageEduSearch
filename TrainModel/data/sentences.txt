@@ -13,8 +13,8 @@
 "Master's on Information Security in Sweden",
 "Master's on Information Security in Stockholm Sweden",
 "Master's on Information Security in Rome",
-"Master's on Information Security in Italy",
-"Master's on Information Security in Rome Italy",
+"PhD on Information Security in Italy",
+"PhD on Information Security in Rome Italy",
 "Master's on Software Engineering in Stockholm Sweden",
 "Master's on Software Engineering in Rome Italy",
 "Master's on Accessories Design in Berlin Germany",
@@ -22,9 +22,9 @@
 "Master's on Accounting in Berlin Germany",
 "Master's on Administration in Berlin Germany",
 "Master's on Administration Studies in Berlin Germany",
-"Master's on Administration, Business, and Economics in Berlin Germany",
-"Master's on Administrative Law Studies in Berlin Germany",
-"Master's on Adult Education in Berlin Germany",
+"PhD on Administration, Business, and Economics in Berlin Germany",
+"PhD on Administrative Law Studies in Berlin Germany",
+"PhD on Adult Education in Berlin Germany",
 "Master's on Advertising in Berlin Germany",
 "Master's on Aeronautical Engineering in Berlin Germany",
 "Jag vill studera magisterexamen i redovisning i Berlin Tyskland",
@@ -33,4 +33,111 @@
 "Jag vill studera magisterexamen i datavetenskap i Stockholm Sverige",
 "Jag vill studera magisterexamen i mjukvaruteknik i Stockholm Sverige",
 "Jag vill studera magisterexamen i informationsteknik i Stockholm Sverige",
-"Jag vill studera magisterexamen i finans i Stockholm Sverige"
+"Jag vill studera magisterexamen i finans i Stockholm Sverige",
+"Master's in Data Science in Germany"
+"Bachelor of Computer Science in the USA"
+"PhD in Artificial Intelligence in Canada"
+"Distance course in Environmental Science in Australia"
+"Master's in Mechanical Engineering in the UK"
+"Bachelor of Cybersecurity in Sweden"
+"PhD in Biotechnology in Japan"
+"Distance course in Finance in Switzerland"
+"Master's in Marketing in France"
+"Bachelor of Psychology in the Netherlands"
+"PhD in Physics in Germany"
+"Distance course in Chemistry in the USA"
+"Master's in Electrical Engineering in Canada"
+"Bachelor of Civil Engineering in Australia"
+"PhD in Mathematics in the UK"
+"Distance course in Statistics in Sweden"
+"Master's in Economics in Japan"
+"Bachelor of Business Administration in Switzerland"
+"PhD in Political Science in France"
+"Distance course in Sociology in the Netherlands"
+"Master's in History in Germany"
+"Bachelor of Philosophy in the USA"
+"PhD in Anthropology in Canada"
+"Distance course in Linguistics in Australia"
+"Master's in Literature in the UK"
+"Bachelor of Art History in Sweden"
+"PhD in Musicology in Japan"
+"Distance course in Film Studies in Switzerland"
+"Master's in Theatre Studies in France"
+"Bachelor of Dance in the Netherlands"
+"PhD in Visual Arts in Germany"
+"Distance course in Graphic Design in the USA"
+"Master's in Interior Design in Canada"
+"Bachelor of Fashion Design in Australia"
+"PhD in Industrial Design in the UK"
+"Distance course in Architecture in Sweden"
+"Master's in Urban Planning in Japan"
+"Bachelor of Landscape Architecture in Switzerland"
+"PhD in Environmental Design in France"
+"Distance course in Sustainable Design in the Netherlands"
+"Master of Public Health in Germany"
+"Bachelor of Nursing in the USA"
+"PhD in Medicine in Canada"
+"Distance course in Pharmacy in Australia"
+"Master's in Dentistry in the UK"
+"Bachelor of Veterinary Medicine in Sweden"
+"PhD in Biomedical Engineering in Japan"
+"Distance course in Health Informatics in Switzerland"
+"Master's in Occupational Therapy in France"
+"Bachelor of Physical Therapy in the Netherlands"
+"PhD in Nutrition in Germany"
+"Distance course in Dietetics in the USA"
+"Master's in Sports Science in Canada"
+"Bachelor of Exercise Science in Australia"
+"PhD in Kinesiology in the UK"
+"Distance course in Athletic Training in Sweden"
+"Master's in Education in Japan"
+"Bachelor of Early Childhood Education in Switzerland"
+"PhD in Educational Leadership in France"
+"Distance course in Special Education in the Netherlands"
+"Master of Curriculum and Instruction in Germany"
+"Bachelor of Elementary Education in the USA"
+"PhD in Secondary Education in Canada"
+"Distance course in Higher Education in Australia"
+"Master's in Adult Education in the UK"
+"Bachelor of Vocational Education in Sweden"
+"PhD in Educational Technology in Japan"
+"Distance course in Instructional Design in Switzerland"
+"Master of Library Science in France"
+"Bachelor of Information Science in the Netherlands"
+"PhD in Archival Studies in Germany"
+"Distance course in Museum Studies in the USA"
+"Master of Art Conservation in Canada"
+"Bachelor of Art Therapy in Australia"
+"PhD in Art Education in the UK"
+"Distance course in Art Administration in Sweden"
+"Master's in Music Therapy in Japan"
+"Bachelor of Music Education in Switzerland"
+"PhD in Music Performance in France"
+"Distance course in Music Composition in the Netherlands"
+"Master's in Theatre Education in Germany"
+"Bachelor of Theatre Performance in the USA"
+"PhD in Theatre Directing in Canada"
+"Distance course in Theatre Production in Australia"
+"Master's in Dance Education in the UK"
+"Bachelor of Dance Performance in Sweden"
+"PhD in Dance Choreography in Japan"
+"Distance course in Dance Therapy in Switzerland"
+"Master of Film Production in France"
+"Bachelor of Film Directing in the Netherlands"
+"PhD in Film Studies in Germany"
+"Distance course in Screenwriting in the USA"
+"Master of Animation in Canada"
+"Bachelor of Game Design in Australia"
+"PhD in Interactive Media in the UK"
+"Distance course in Digital Media in Sweden"
+"Master of Journalism in Japan"
+"Bachelor of Public Relations in Switzerland"
+"PhD in Communication Studies in France"
+"Distance course in Media Studies in the Netherlands"
+"Master of Computer Science in Stockholm Sweden"
+"Bachelor of Computer Science in Stockholm Sweden"
+"Distance course in Dance Therapy in Switzerland"
+"Bachelor of Economics in Stockholm Sweden"
+"Bachelor of Mechanical Engineering in Stockholm Sweden"
+"Bachelor of Chemistry in Stockholm Sweden"
+"Bachelor of Physics in Stockholm Sweden"
